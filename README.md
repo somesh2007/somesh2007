@@ -25,7 +25,7 @@ I'm a Computer Engineering student passionate about **software development, prob
 
 ## 🔗 Connect With Me
 
-* 💼 [LinkedIn](<a href="https://www.linkedin.com/in/somesh-kalyankar-54a485334/">
+(<a href="https://www.linkedin.com/in/somesh-kalyankar-54a485334/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" />
 </a>)
 
