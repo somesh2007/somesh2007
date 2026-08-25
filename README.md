@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Somesh Kalyankar
 
-<!--
-**somesh2007/somesh2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Computer Engineering Student | Developer
 
-Here are some ideas to get you started:
+I'm a Computer Engineering student passionate about **software development, problem solving, and learning new technologies**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills
+
+* **Languages:** C++, Java, Python
+* **Web:** HTML, CSS, JavaScript
+* **Database:** PostgreSQL
+* **Core:** Data Structures & Algorithms, Problem Solving
+* **Tools:** Git, GitHub, VS Code
+
+---
+
+## 🚀 Projects
+
+* 💻 **C++ Programming** — C++ concepts, programs, and practice
+* ❤️ **Crush Calculator** — HTML, CSS & JavaScript
+
+---
+
+## 🔗 Connect With Me
+
+* 💼 [LinkedIn](<a href="https://www.linkedin.com/in/somesh-kalyankar-54a485334/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" />
+</a>)
+
+
+
+---
+
+⭐ **Thanks for visiting my profile!**
+
